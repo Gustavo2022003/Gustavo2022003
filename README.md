@@ -30,5 +30,3 @@
 - 📈 Siempre busco mejorar mis conocimientos y habilidades de programación.
 - 💎 Curiosidad: me encanta tocar la guitarra / batería y a veces me gusta jugar con amigos
 - 📖 Idiomas: inglés, español y portugués
-
-# My Game Studio: https://twitter.com/DreamMoon_St
