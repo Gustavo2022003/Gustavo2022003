@@ -13,7 +13,7 @@
 
 ### Olá, sou o Gustavo! 👋
 
-# Sou estudante de análise e desenvolvimento de sistemas, desenvolvedor de jogos independente, Programador e gamer :)
+# Sou estudante de análise e desenvolvimento de sistemas, desenvolvedor de jogos independente, programador e gamer :)
 - 👨🏻‍💻 Atualmente, estou trabalhando em um jogo
 - 🌱 Atualmente estou aprendendo Python, HTML5, CSS e Java
 - 📈 Estou sempre procurando melhorar meus conhecimentos e habilidades de programação
