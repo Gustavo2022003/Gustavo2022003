@@ -1,4 +1,5 @@
-English - US
+#### English - US
+
 ### HI there, i'm Gustavo! 👋
 
 # I'm a analysis and systems development student, Game indie Dev, programmer and Gamer :)
@@ -8,7 +9,7 @@ English - US
 - 💎 Fun fact: I love play guitar/drums and sometimes play games with friends
 - 📖 Languages: english, spanish and portuguese
 
-Portuguese - BR
+#### Portuguese - BR
 
 ### Olá, sou o Gustavo! 👋
 
@@ -19,7 +20,7 @@ Portuguese - BR
 - 💎 Curiosidade: eu amo tocar guitarra / bateria e às vezes gosto de jogar com amigos
 - 📖 Idiomas: inglês, espanhol e português
 
-Spanish - ES
+### Spanish - ES
 
 ### Hola soy Gustavo! 👋
 
