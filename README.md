@@ -14,7 +14,7 @@
 ### Olá, sou o Gustavo! 👋
 
 # Sou estudante de análise e desenvolvimento de sistemas, desenvolvedor de jogos independente, programador e gamer :)
-- 👨🏻‍💻 Atualmente, estou trabalhando em um jogo [DreamMoonStudios]
+- 👨🏻‍💻 Atualmente, estou trabalhando em um jogo
 - 🌱 Atualmente estou aprendendo Python, HTML5, CSS e Java
 - 📈 Estou sempre procurando melhorar meus conhecimentos e habilidades de programação
 - 💎 Curiosidade: eu amo tocar guitarra / bateria e às vezes gosto de jogar com amigos
@@ -31,4 +31,4 @@
 - 💎 Curiosidad: me encanta tocar la guitarra / batería y a veces me gusta jugar con amigos
 - 📖 Idiomas: inglés, español y portugués
 
-[DreamMoonStudios] = https://twitter.com/DreamMoon_St
+# My Game Studio: https://twitter.com/DreamMoon_St
