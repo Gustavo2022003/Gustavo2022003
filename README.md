@@ -24,7 +24,7 @@
 
 ### Spanish - ES 🇨🇴
 
-### Hola soy Gustavo! 👋
+### Hola, soy Gustavo! 👋
 
 # Soy estudiante de análisis y desarrollo de sistemas en FATEC & ETEC a través del programa NOVOTEC.
 - 👨🏻‍💻 Actualmente estoy estudiando.
