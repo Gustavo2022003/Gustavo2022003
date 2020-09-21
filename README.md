@@ -30,5 +30,5 @@
 - 👨🏻‍💻 Actualmente estoy estudiando.
 - 🌱 Actualmente estoy aprendiendo Python, HTML5, CSS y Java.
 - 📈 Siempre busco mejorar mis conocimientos y habilidades de programación.
-- 💎 Curiosidad: me encanta tocar la guitarra / batería y a veces salir con mis amigos.
+- 💎 Curiosidades: me encanta tocar la guitarra / batería y a veces salir con mis amigos.
 - 📖 Idiomas: inglés(Fluido), español(Fluido) y portugués(Nativo)
