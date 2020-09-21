@@ -1,4 +1,4 @@
-#### English - US
+#### English - US 🇺🇸
 
 ### Hi there, i'm Gustavo! 👋
 
@@ -9,7 +9,7 @@
 - 💎 Fun facts: I love play guitar/drums and sometimes hangout with my friends.
 - 📖 Languages: english(Fluent), spanish(Fluent) and portuguese(Native).
 
-#### Portuguese - BR
+#### Portuguese - BR 🇧🇷
 
 ### Olá, sou o Gustavo! 👋
 
@@ -22,7 +22,7 @@
 - 🙎🏻‍♂️ Estado civil: Solteiro.
 - 👶🏼/👴🏻 Idade: 17 anos.
 
-### Spanish - ES
+### Spanish - ES 🇨🇴
 
 ### Hola soy Gustavo! 👋
 
