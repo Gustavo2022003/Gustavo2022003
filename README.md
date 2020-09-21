@@ -1,6 +1,6 @@
 #### English - US
 
-### HI there, i'm Gustavo! 👋
+### Hi there, i'm Gustavo! 👋
 
 # I'm a analysis and systems development student at FATEC & ETEC through the NOVOTEC program.
 - 👨🏻‍💻 Im currently studying.
