@@ -8,6 +8,8 @@
 - 📈 I'm always looking for improve my knowledge and programming skills.
 - 💎 Fun facts: I love play guitar/drums and sometimes hangout with my friends.
 - 📖 Languages: english(Fluent), spanish(Fluent) and portuguese(Native).
+- 🙎🏻‍♂️ Marital status: Single.
+- 👶🏼/👴🏻 Age: 17 years old.
 
 #### Portuguese - BR 🇧🇷
 
@@ -32,3 +34,5 @@
 - 📈 Siempre busco mejorar mis conocimientos y habilidades de programación.
 - 💎 Curiosidades: me encanta tocar la guitarra / batería y a veces salir con mis amigos.
 - 📖 Idiomas: inglés(Fluido), español(Fluido) y portugués(Nativo)
+- 🙎🏻‍♂️ Estado civil: Soltero.
+- 👶🏼/👴🏻 Edad: 17 años.
