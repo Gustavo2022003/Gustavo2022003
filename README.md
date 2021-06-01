@@ -12,6 +12,8 @@
 </div>
 
 # 
+  ![Snake animation](https://github.com/Gustavo2022003/Gustavo2022003/blob/output/github-contribution-grid-snake.svg)
+# 
 
 #### English - US 🇺🇸
 
@@ -51,6 +53,3 @@
 - 📖 Idiomas: Inglés(Fluido), Español(Fluido) y Portugués(Nativo)
 - 🙎🏻‍♂️ Estado civil: Soltero.
 - 👶🏼/👴🏻 Edad: 18 años.
-
-
-  ![Snake animation](https://github.com/Gustavo2022003/Gustavo2022003/blob/output/github-contribution-grid-snake.svg)
