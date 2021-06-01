@@ -10,6 +10,7 @@
   <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gusta-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gusta-Java" height="30" width="40" src="https://develop.spacemacs.org/layers/+lang/java/img/java.png">
+  <img align="center" alt="Gusta-PHP" height="30" width="40" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png">
 </div>
 
 # 
