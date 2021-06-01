@@ -36,3 +36,6 @@
 - 📖 Idiomas: Inglés(Fluido), Español(Fluido) y Portugués(Nativo)
 - 🙎🏻‍♂️ Estado civil: Soltero.
 - 👶🏼/👴🏻 Edad: 18 años.
+
+
+![Snake animation] (https://github.com/Gustavo2022003)
