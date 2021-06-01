@@ -37,5 +37,6 @@
 - 🙎🏻‍♂️ Estado civil: Soltero.
 - 👶🏼/👴🏻 Edad: 18 años.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo2022003)](https://github.com/anuraghazra/github-readme-stats)
 
   ![Snake animation](https://github.com/Gustavo2022003/Gustavo2022003/blob/output/github-contribution-grid-snake.svg)
