@@ -38,4 +38,4 @@
 - 👶🏼/👴🏻 Edad: 18 años.
 
 
-![Snake animation] (https://github.com/Gustavo2022003)
+  ![Snake animation](https://github.com/Gustavo2022003/Gustavo2022003/blob/output/github-contribution-grid-snake.svg)
