@@ -1,6 +1,6 @@
 <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Gustavo2022003&show_icons=true&theme=dracula&include_all_commits=true&count_private-true">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo2022003&theme=dracula&langs_count=16layout=compact">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Gustavo2022003&show_icons=true&theme=dracula&include_all_commits=true&count_private-true">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo2022003&theme=dracula&langs_count=16layout=compact">
 <div>
 
 #### English - US 🇺🇸
