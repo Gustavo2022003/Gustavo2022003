@@ -28,7 +28,7 @@
 - 💎 Fun facts: I love play guitar/drums, play basketball and sometimes hangout with my friends.
 - 📖 Languages: English(Fluent), Spanish(Fluent) and Portuguese(Native).
 - 🙎🏻‍♂️ Marital status: Single.
-- 👶🏼/👴🏻 Age: 18 years old.
+- 👶🏼/👴🏻 Age: 19 years old.
 
 #### Portuguese - BR 🇧🇷
 
@@ -41,7 +41,7 @@
 - 💎 Curiosidades: eu amo tocar guitarra, bateria, jogar basquete e às vezes gosto de sair com amigos.
 - 📖 Idiomas: Inglês(Fluente), Espanhol(Fluente) e Português(Nativo).
 - 🙎🏻‍♂️ Estado civil: Solteiro.
-- 👶🏼/👴🏻 Idade: 18 anos.
+- 👶🏼/👴🏻 Idade: 19 anos.
 
 #### Spanish - ES 🇨🇴
 
@@ -54,4 +54,4 @@
 - 💎 Curiosidades: me encanta tocar la guitarra / batería, jugar basketball y a veces salir con mis amigos.
 - 📖 Idiomas: Inglés(Fluido), Español(Fluido) y Portugués(Nativo)
 - 🙎🏻‍♂️ Estado civil: Soltero.
-- 👶🏼/👴🏻 Edad: 18 años.
+- 👶🏼/👴🏻 Edad: 19 años.
