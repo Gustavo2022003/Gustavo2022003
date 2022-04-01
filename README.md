@@ -29,8 +29,3 @@
 - 📖 Languages: English(Fluent), Spanish(Fluent) and Portuguese(Native).
 - 🙎🏻‍♂️ Marital status: Single.
 - 👶🏼/👴🏻 Age: 19 years old.
-    
-### Habilidades profissionais
-# Frameworks
-> Bootstrap
-
