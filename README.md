@@ -1,4 +1,4 @@
-# Hi there, i'm Gustavo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Hi there, i'm Gustavo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> #openToWork
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gustavo2022003&color=green" alt="Profile views" /> </p>
 
 ## <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">&nbsp;***About me***
@@ -18,6 +18,8 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, Python**
 
 - 📖 Languages: English(Fluent), Spanish(Fluent) and Portuguese(Native).
+
+- 📬 Contact me: gustavo.gutierrez2003@outlook.com
 
 ## ⚙️ &nbsp;GitHub Analytics
 
