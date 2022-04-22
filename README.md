@@ -1,5 +1,6 @@
 # Hi there, i'm Gustavo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> #openToWork
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gustavo2022003&color=green" alt="Profile views" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gustavo2022003&color=green" alt="Profile views" /> <img src="https://img.shields.io/github/followers/Gustavo2022003.svg?style=social&label=Follow&maxAge=2592000" alt="Profile views" /></p>
 
 ## <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">&nbsp;***About me***
 
@@ -17,28 +18,26 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Python**
 
-- 📖 Languages: English(Fluent), Spanish(Fluent) and Portuguese(Native).
+- 📖 Languages: English (Fluent), Spanish (Fluent) and Portuguese (Native).
 
-- 📬 Contact me: gustavo.gutierrez2003@outlook.com
+## Technologies I use often
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+## 📬 Contact me
+
+<a href="https://www.linkedin.com/in/gustavo-gutierrez-9b101b19b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+```gustavo.gutierrez2003@outlook.com```
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
     <a href="https://github.com/Gustavo2022003">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo2022003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private-true">
-<div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gusta-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gusta-Java" height="30" width="40" src="https://develop.spacemacs.org/layers/+lang/java/img/java.png">
-  <img align="center" alt="Gusta-PHP" height="30" width="40" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png">
 </div>
-
-# 
-  ![Snake animation](https://github.com/Gustavo2022003/Gustavo2022003/blob/output/github-contribution-grid-snake.svg)
-# 
-
