@@ -1,6 +1,11 @@
 # Hi there, i'm Gustavo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> #openToWork
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gustavo2022003&color=green" alt="Profile views" /> <img src="https://img.shields.io/github/followers/Gustavo2022003.svg?style=social&label=Follow&maxAge=2592000" alt="Profile views" /></p>
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
+
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=Gustavo2022003&color=green" alt="Profile views" /> 
+ <img src="https://img.shields.io/github/followers/Gustavo2022003.svg?style=social&label=Follow&maxAge=2592000" alt="Profile views"/>
+</p>
 
 ## <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">&nbsp;***About me***
 
@@ -27,6 +32,7 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ## 📬 Contact me
