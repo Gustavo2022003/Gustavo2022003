@@ -1,4 +1,4 @@
-# Hi there, i'm Gustavo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> #openToWork
+# Hi there, i'm Gustavo! #openToWork
 
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 
