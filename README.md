@@ -21,7 +21,7 @@
 
 - 📑 Check out my CV: [Gustavo's CV](https://curriculum-gustavo.netlify.app/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Python**
+- 💬 Ask me about **JavaScript, HTML, CSS, Python, MySQL**
 
 - 📖 Languages: English (Fluent), Spanish (Fluent) and Portuguese (Native).
 
