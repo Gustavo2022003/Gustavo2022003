@@ -16,6 +16,7 @@
   - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
   - ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5)&nbsp;/![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3)&nbsp;
   - ![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat-square&logo=react)&nbsp;
+   - ![Firebird](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 
 - 👨‍💻 Studying at [FATEC](https://fatecmm.edu.br/)/[ETEC](https://www.pfalves.com.br/)
 
