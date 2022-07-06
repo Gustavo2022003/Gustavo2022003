@@ -21,7 +21,7 @@
 
 - 👨‍💻 Studying at [FATEC](https://fatecmm.edu.br/)/[ETEC](https://www.pfalves.com.br/)
 
-- 🧾 Check out my CV: [Gustavo's CV](https://curriculum-gustavo.netlify.app/)
+- 📑 Check out my CV: [Gustavo's CV](https://curriculum-gustavo.netlify.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Python**
 
