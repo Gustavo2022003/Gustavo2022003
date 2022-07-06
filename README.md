@@ -16,6 +16,8 @@
   - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
   - ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5)&nbsp;/![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3)&nbsp;
   - ![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat-square&logo=react)&nbsp;
+  - ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)&nbsp;
+  - ![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat-square&logo=delphi)&nbsp;
 
 - 👨‍💻 Studying at [FATEC](https://fatecmm.edu.br/)/[ETEC](https://www.pfalves.com.br/)
 
@@ -28,11 +30,15 @@
 ## Technologies I use often
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-4ea6d9?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-e38914?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1a4fc9?&style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-8c4ed9?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 ## 📬 Contact me
