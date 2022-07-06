@@ -1,16 +1,14 @@
 # Hi there, i'm Gustavo! #openToWork
 
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
-
 <p align="left">
+ <img style="width: 100px !important" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
  <img src="https://komarev.com/ghpvc/?username=Gustavo2022003&color=green" alt="Profile views" /> 
- <img src="https://img.shields.io/github/followers/Gustavo2022003.svg?style=social&label=Follow&maxAge=2592000" alt="Profile views"/>
+ <img style="width: 100px !important" src="https://img.shields.io/github/followers/Gustavo2022003.svg?style=for-the-badge&logo=Follow&maxAge=2592000" alt="Profile views"/>
 </p>
 
 ## <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">&nbsp;***About me***
 
 - 🔥 System analysis and development student.
-
 - 🌱 I’m currently learning ...
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
   - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
@@ -41,11 +39,17 @@
   <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
+## Operacional systems
+<p>
+ <img src="https://img.shields.io/badge/Windows-0077B5?style=for-the-badge&logo=windows&logoColor=white">
+ <img src="https://img.shields.io/badge/Ubuntu-0077B5?style=for-the-badge&logo=ubuntu&logoColor=white">
+</p>
+
 ## 📬 Contact me
 
 <a href="https://www.linkedin.com/in/gustavo-gutierrez-9b101b19b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-```gustavo.gutierrez2003@outlook.com```
+> gustavo.gutierrez2003@outlook.com
 
 ## ⚙️ &nbsp;GitHub Analytics
 
