@@ -1,4 +1,5 @@
-# Hi there, i'm Gustavo! #openToWork
+# <img src="hi-there,-im-gustavo-gutierrez.svg">
+<p style="font-size: 6px;">#openToWork</p>
 
 <p align="left">
  <img style="width: 100px !important" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
