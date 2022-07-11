@@ -4,7 +4,7 @@
 <p align="left">
  <img style="width: 100px !important" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
  <img src="https://komarev.com/ghpvc/?username=Gustavo2022003&color=green" alt="Profile views" /> 
- <img style="width: 100px !important" src="https://img.shields.io/github/followers/Gustavo2022003.svg?style=for-the-badge&logo=Follow&maxAge=2592000" alt="Profile views"/>
+ <img style="width: 110px !important" src="https://img.shields.io/github/followers/Gustavo2022003.svg?style=for-the-badge&logo=Follow&maxAge=2592000" alt="Profile views"/>
 </p>
 
 ## <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">&nbsp;***About me***
