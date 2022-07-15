@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Bootstrap-8c4ed9?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
 ## Organizations
