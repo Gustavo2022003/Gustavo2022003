@@ -7,6 +7,8 @@
  <img style="width: 110px !important" src="https://img.shields.io/github/followers/Gustavo2022003.svg?style=for-the-badge&logo=Follow&maxAge=2592000" alt="Profile views"/>
 </p>
 
+<img src="Copy of Black Technology LinkedIn Banner.png">
+
 ## <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">&nbsp;***About me***
 
 - 🔥 System analysis and development student.
