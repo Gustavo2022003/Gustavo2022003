@@ -9,7 +9,7 @@
 
 <a href="https://www.linkedin.com/in/gustavo-gutierrez-9b101b19b/" target="_blank"><img src="Copy of Black Technology LinkedIn Banner.png"></a>
 
-## <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">&nbsp;***About me***
+### About me
 
 - 🔥 System analysis and development student.
 - 🌱 I’m currently learning ...
