@@ -1,11 +1,7 @@
 <a href="https://www.linkedin.com/in/gustavo-gutierrez-9b101b19b/" target="_blank"><img src="Copy of Black Technology LinkedIn Banner.png"></a>
 
-<p style="font-size: 6px;">#openToWork</p>
-
 <p align="left">
- <img style="width: 100px !important" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
  <img src="https://komarev.com/ghpvc/?username=Gustavo2022003&color=green" alt="Profile views" /> 
- <img style="width: 110px !important" src="https://img.shields.io/github/followers/Gustavo2022003.svg?style=for-the-badge&logo=Follow&maxAge=2592000" alt="Profile views"/>
 </p>
 
 ### About me
@@ -15,11 +11,10 @@
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
   - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
   - ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5)&nbsp;/![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3)&nbsp;
-  - ![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat-square&logo=react)&nbsp;
   - ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)&nbsp;
   - ![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat-square&logo=delphi)&nbsp;
 
-- 👨‍💻 Studying at [FATEC](https://fatecmm.edu.br/)/[ETEC](https://www.pfalves.com.br/)
+- 👨‍💻 Studying at [FATEC](https://fatecmm.edu.br/)
 
 - 📑 Check out my CV: [Gustavo's CV](https://curriculum-gustavo.netlify.app/)
 
