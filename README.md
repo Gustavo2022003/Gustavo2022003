@@ -58,10 +58,3 @@
 <a href="https://www.linkedin.com/in/gustavo-gutierrez-9b101b19b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 > gustavo.gutierrez2003@outlook.com
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<div>
-    <a href="https://github.com/Gustavo2022003">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo2022003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private-true">
-</div>
