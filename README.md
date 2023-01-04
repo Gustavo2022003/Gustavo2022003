@@ -1,4 +1,5 @@
-# <img src="hi-there,-im-gustavo-gutierrez.svg">
+<a href="https://www.linkedin.com/in/gustavo-gutierrez-9b101b19b/" target="_blank"><img src="Copy of Black Technology LinkedIn Banner.png"></a>
+
 <p style="font-size: 6px;">#openToWork</p>
 
 <p align="left">
@@ -6,8 +7,6 @@
  <img src="https://komarev.com/ghpvc/?username=Gustavo2022003&color=green" alt="Profile views" /> 
  <img style="width: 110px !important" src="https://img.shields.io/github/followers/Gustavo2022003.svg?style=for-the-badge&logo=Follow&maxAge=2592000" alt="Profile views"/>
 </p>
-
-<a href="https://www.linkedin.com/in/gustavo-gutierrez-9b101b19b/" target="_blank"><img src="Copy of Black Technology LinkedIn Banner.png"></a>
 
 ### About me
 
