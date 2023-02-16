@@ -12,7 +12,6 @@
   - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
   - ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5)&nbsp;/![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3)&nbsp;
   - ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)&nbsp;
-  - ![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat-square&logo=delphi)&nbsp;
 
 - 👨‍💻 Studying at [FATEC](https://fatecmm.edu.br/)
 
