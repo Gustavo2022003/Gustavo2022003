@@ -1,8 +1,6 @@
 <a href="https://www.linkedin.com/in/gustavo-gutierrez-9b101b19b/" target="_blank"><img src="Copy of Black Technology LinkedIn Banner.png"></a>
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=Gustavo2022003&color=green" alt="Profile views" /> 
-</p>
+
 
 ### About me
 
