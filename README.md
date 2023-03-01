@@ -1,6 +1,7 @@
 <a href="https://www.linkedin.com/in/gustavo-gutierrez-9b101b19b/" target="_blank"><img src="Copy of Black Technology LinkedIn Banner.png"></a>
 
 ---
+
 ### About me
 
 - 🔥 System analysis and development student.
@@ -14,18 +15,7 @@
 ---
 
 ### 🧰  My toolbox
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="width:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:30px;"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mysql,git,github,bootstrap,vscode,photoshop)](https://skillicons.dev)
 
 ---
 
