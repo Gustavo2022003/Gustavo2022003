@@ -10,7 +10,7 @@
 - 📑 Check out my portfolio [here](https://curriculum-gustavo.netlify.app/).
 - 💬 Ask me about **_HTML5, CSS3, Python, MySQL_**.
 - 📖 Languages: English (Fluent), Spanish (Fluent) and Portuguese (Native).
-- ⚡ Fun fact: I love to draw and play guitar, basketball and stay with my family!
+- ⚡ Fun fact: I love to play guitar, basketball and stay with my family and my cat!
 
 ---
 
