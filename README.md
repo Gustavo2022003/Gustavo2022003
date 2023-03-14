@@ -15,7 +15,7 @@
 ---
 
 ### 🧰  My toolbox
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mysql,git,github,bootstrap,vscode,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mysql,bootstrap,jquery,git,github,vscode,photoshop)](https://skillicons.dev)
 
 ---
 
