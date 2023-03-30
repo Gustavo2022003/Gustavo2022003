@@ -12,19 +12,17 @@
 - ⚡ Fun fact: I love to play guitar, basketball and stay with my family and my cat!
 
 ---
-
 # 🧰  My toolbox
+<img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,bootstrap,jquery,git,github,vscode,photoshop">
 
-Itermediate knowledge
-<br>
-<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mysql,bootstrap,jquery,git,github,vscode,photoshop)](https://skillicons.dev)
+
 
 ### In progress...
-Languages/technologies that i'm starting to study
-<br>
-<br>
-[![My Skills](https://skillicons.dev/icons?i=java,c,nodejs,express)](https://skillicons.dev)
+<details>
+  <summary>Languages/technologies that i'm starting to study</summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,c,nodejs,express">
+</details>
 
 ---
 
