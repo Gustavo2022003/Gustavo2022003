@@ -21,7 +21,7 @@
 <details>
   <summary>Languages/technologies that i'm starting to study</summary>
   <br>
-  <img src="https://skillicons.dev/icons?i=java,c,nodejs,express">
+  <img src="https://skillicons.dev/icons?i=java,c,nodejs,express,react">
 </details>
 
 ---
