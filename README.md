@@ -13,7 +13,7 @@
 
 ---
 # 🧰  My toolbox
-<img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,bootstrap,jquery,git,github,vscode,photoshop">
+<img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,bootstrap,jquery,git,github,vscode,photoshop,markdown">
 
 
 
