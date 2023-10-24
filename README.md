@@ -18,11 +18,9 @@
 
 
 ### In progress...
-<details>
-  <summary>Languages/technologies that i'm starting to study</summary>
-  <br>
-  <img src="https://skillicons.dev/icons?i=java,c,nodejs,express,react">
-</details>
+<p>Languages/technologies that i'm starting to study</p>
+<br>
+<img src="https://skillicons.dev/icons?i=java,c,nodejs,express,react">
 
 ---
 
