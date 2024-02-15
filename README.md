@@ -13,14 +13,8 @@
 
 ---
 # 🧰  My toolbox
-<img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,bootstrap,jquery,git,github,vscode,photoshop,markdown">
+<img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,bootstrap,jquery,git,github,vscode,photoshop,markdown,java,c,nodejs,express">
 
-
-
-### In progress...
-<p>Languages/technologies that i'm starting to study</p>
-<br>
-<img src="https://skillicons.dev/icons?i=java,c,nodejs,express,react">
 
 ---
 
