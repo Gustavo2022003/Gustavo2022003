@@ -5,7 +5,7 @@
 # 🧰  My toolbox
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,bootstrap,jquery,git,github,typescript,photoshop,tailwind,java,c,nodejs,express&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,bootstrap,jquery,git,github,typescript,photoshop,tailwind,java,c,nodejs,express,powershell&perline=8" />
   </a>
 </p>
 
