@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/gustavo-gutierrez-9b101b19b/" target="_blank">
-  <img src="https://github.com/Gustavo2022003/Gustavo2022003/assets/54781049/f25369f6-0d77-485e-bbeb-0929793a0c90">
+  <img src="BannerGitHub.png">
 </a>
 
 # 🧰  My toolbox
