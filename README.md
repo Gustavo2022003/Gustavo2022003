@@ -32,7 +32,7 @@
     Get in touch
   </summary>
 
-  - gustavo.gutierrez2003@outlook.com
+  - gustavo.gtrz20@gmail.com
   - [linkedin](https://www.linkedin.com/in/gustavo-gutierrez-319b43285/)
   
 </details>
