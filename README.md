@@ -5,7 +5,7 @@
 # 🧰  My toolbox
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,html,css,md,mysql,mongodb,postgresql,aws,nodejs,bash,linux,git,github,postman,docker,kubernetes,terraform,fastapi,scikitlearn,tensorflow,tailwind,express&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,html,css,nestjs,nextjs,react,md,mysql,mongodb,postgresql,aws,nodejs,bash,linux,git,github,postman,docker,kubernetes,terraform,fastapi,scikitlearn,tensorflow,tailwind,express&perline=8" />
   </a>
 </p>
 
